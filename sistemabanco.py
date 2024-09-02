@@ -76,6 +76,6 @@ while True:
     elif opcao == "sair":
         break
 
-else:
-    print("Operação inválida, por favor, selecione novamente a operação desejada.")
+    else:
+        print("Operação inválida, por favor, selecione novamente a operação desejada.")
 
