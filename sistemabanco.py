@@ -1,5 +1,5 @@
 menu = """
-
+Selecione uma opção abaixo:
 [depositar]
 [saque]
 [transferir]
